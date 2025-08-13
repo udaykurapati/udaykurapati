@@ -1,5 +1,5 @@
 👋 Hi, I’m @udayKurapati
-👀 I’m interested in Data Science/ Machine Learning/ Deep Learning and cutting-edge research in AI and tech stuff.
+- 👀 I’m interested in Data Science/ Machine Learning/ Deep Learning and cutting-edge research in AI and tech stuff.
 🌱 I’m currently learning Python, SQL, Applied Statistics, Product Analytics, Machine Learning, and solving DSA problems.
 💞️ I’m looking to collaborate on ... (still deciding)
 📫 How to reach me ...(will update it soon)
